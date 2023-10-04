@@ -1,2 +1,2 @@
 # tux
-grab tux ppm
+grab tux ppm, download Tux.ppm file
